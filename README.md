@@ -1,0 +1,2 @@
+# covid-shopper
+A website that allows the user to search for a store and receive a list of that stores active COVID-19 precautions and the current busyness at up to 5 of their nearby locations. In addition to these results, the website will also return a list of alternative stores that are similar in type but may have more COVID-19 precautions or may be less busy than the originally searched for store.
